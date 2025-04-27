@@ -1,2 +1,2 @@
 # Aarambh Trust for Women and Children
- NGO
+ Aarambh Trust for Women and Children is a nonprofit organization which is based in South Delhi. I have been volunteering and been connected with them for the past five years this year. I had the opportunity to create a website for this NGO, I successfully created a website using HTML JavaScript and CSS and used WordPress management and used the big website for hosting that in this file. I have attached the sort of backup for the website.
